@@ -1,0 +1,6 @@
+{
+  "firstName" : "Amanda", "lastName" : "Bausch",
+  "favoriteFoods" : ["tacos", "pie", "cake", "quacamole", "eggs"],
+  "hotLineBling" : false,
+  "favoriteMovies" : [{"movieName":"The Fifth Element", "releaseYear":1997}, {"movieName":"How to Train Your Dragon", "releaseYear":2010}, {"movieName":"Serenity", "releaseYear":"2005"} ]
+}

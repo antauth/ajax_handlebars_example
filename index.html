@@ -1,0 +1,42 @@
+<html>
+  <head>
+  	<title>Basic AJAX Example</title>
+    <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.4/handlebars.min.js"></script>
+    <script src="test.js"></script>
+  </head>
+  <body>
+  	<main>
+  		<script id="list" type="text/x-handlebars-template">
+  			<form>
+  				<select id="persons" name="persons">
+  				{{#each persons}}
+  					 <option value="{{this}}">{{this}}</option>
+  				{{/each}}
+  				</select>
+  				<button class="dropdown">Submit</button>
+  			</form>
+  		</script>
+  	</main>
+  	<article>
+  		<script id="person" type="text/x-handlebars-template">
+  			<h1>{{person.firstName}} {{person.lastName}}</h1>
+  			<h2>Favorite Foods</h2>
+  			<ul>
+  				{{#each person.favoriteFoods}}
+  				<li>{{this}}</li>
+  				{{/each}}
+  			</ul>
+  			{{#if person.hotLineBling }}
+  			<img src="/images/hotline-bling.gif"/>
+  			{{/if}}
+  			<h2>Favorite Movies</h2>
+  			<ul>
+  				{{#each person.favoriteMovies}}
+  				<li>{{this.movieName}}, {{this.releaseYear}}</li>
+  				{{/each}}
+  			</ul>
+  		</script>
+  	</article>
+  </body>
+</html>

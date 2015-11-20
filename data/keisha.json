@@ -1,0 +1,9 @@
+{
+    "firstName": "Keisha",
+    "lastName": "Josephs",
+    "favoriteFood": ["oxtail", "platanos", "roti","pizza","soup"],
+    "hotLineBling": true,
+    "favoriteMovies": [{"title": "Hunger Games", "year": 2012},
+      {"title": "Interstellar", "year": 2014}, {"title":"Princess Mononoke",
+        "year":1997}]
+}

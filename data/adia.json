@@ -1,0 +1,32 @@
+{
+    "firstName": "Adia",
+    "lastName": "Alderson",
+    "favoriteFoods": [
+        "Tomato Basil Soup",
+        "Hummus",
+        "Tofu Pad Thai"
+    ],
+    "hotLineBling": false,
+    "favoriteMovies": [
+        {
+            "movieName": "Gattaca",
+            "releaseYear": 1997
+        },
+        {
+            "movieName": "Cloud Atlas",
+            "releaseYear": 2012
+        },
+        {
+            "movieName": "Big Fish",
+            "releaseYear": 2003
+        },
+        {
+            "movieName": "Spiderman",
+            "releaseYear": 2002
+        },
+        {
+            "movieName": "The Fountain",
+            "releaseYear": 2006
+        }
+    ]
+}

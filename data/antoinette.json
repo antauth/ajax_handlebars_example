@@ -1,0 +1,21 @@
+{
+    "firstName": "Antoinette",
+    "lastName": "Smith",
+    "favoriteFoods": [
+        "mac and cheese",
+        "ice cream",
+        "fried plantains"
+    ],
+    "hotLineBling": true,
+    "favoriteMovies": [
+        {
+            "movieName": "The Lost Boys",
+            "releaseYear": 1987
+        },
+        {
+            "movieName": "Transformers the Movie",
+            "releaseYear": 1985
+        }
+    ]
+}
+

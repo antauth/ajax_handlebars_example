@@ -1,0 +1,16 @@
+{"andrewD":{
+    "firstName":"Andrew", 
+    "lastName":"Dourgarian",
+    "favoriteFoods":["Burgers","Spaghetti","steak"],
+    "hotLineBling":"false",
+    "favoriteMovies":[{
+		    	"movieName":"Kung fu Panda",
+		    	"releaseYear":"2008"
+	    	},
+	    	{
+	    		"movieName":"21 Jump Street",
+	    		"releaseYear":"2012"
+    		}
+    	]
+    }
+}

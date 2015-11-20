@@ -1,0 +1,9 @@
+{"firstName": "James",
+"lastName": "Kirwin",
+"favoriteFood": "['enchiladas', 'pizza', 'Mac and Cheese']",
+"hotLineBling": "false",
+"favoriteMovies": [
+	{"movieName": "Fifth Element", "releaseYear": 1997},
+	{"movieName": "Nightwatch", "releaseYear": 2004},
+	{"movieName": "Love Actually", "releaseYear": 2003}
+]}

@@ -1,0 +1,10 @@
+{"firstName":"Manuel",
+  "lastName":"Alvarez",
+  "favoriteFoods":["Pho", "Spring Rolls", "Ceviche"],
+  "hotLineBling":true,
+  "favoriteMovies":[
+    {"movieName":"City of God","releaseYear":2002},
+    {"movieName":"Army of Darkness","releaseYear":1992}
+  ]
+
+}

@@ -1,0 +1,14 @@
+{
+  "firstName": "Derek",
+  "lastName": "Roche",
+  "favoriteFoods": ["pizza","soup","sandwiches"],
+  "hotLineBling": false,
+  "favoriteMovies": [{
+                      "movieName": "Top Gun",
+                      "releaseYear": "1986"
+                      },
+                     {
+                       "movieName": "Jurassic Park",
+                       "releaseYear": "1993"
+                      }]
+}

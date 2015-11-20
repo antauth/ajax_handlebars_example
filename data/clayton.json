@@ -1,0 +1,11 @@
+{
+"firstName": "Clayton",
+"lastName": "Hottinger",
+"favoriteFoods": ["Thai", "Italian", "beef short ribs"],
+"hotLineBling": false,
+"favoriteMovies": [{"movieName": "Edward Scissor Hands", "releaseYear": 1990},
+										{"movieName": "Inside Llewyn Davis", "releaseYear": 2013},
+										{"movieName": "The Big Lebowski", "releaseYear": 1998},
+										{"movieName": "Star Wars", "releaseYears": "1977-1983"}
+										]
+}

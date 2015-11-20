@@ -1,0 +1,9 @@
+{ "firstName":"gwen",
+  "lastName":"paul",
+  "favoriteFoods":["steak", "icecream", "oyster", "mango"],
+  "hotLineBling": false,
+  "favoriteMovies": [
+    {"movieName": "knocked up", "releaseYear": "2007"},
+    {"movieName": "the town", "releaseYear": "2010"}
+  ]
+}
