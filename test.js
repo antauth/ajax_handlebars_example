@@ -26,10 +26,15 @@ $(document).ready(function() {
 
   	/** AJAX FUNCTIONS **/
   	function getPerson(name) {
+  		// Make AJAX GET request to specified URL
   		$.ajax({
     		url: '/data/'+ name + '.json'
   		})
-  		.done(function(json) {
+  		.done(function(json) { // When GET request is completed, the anonymous function will be called
+  			// The anonymous function's available data is specified according to http://api.jquery.com/jQuery.ajax/#jqXHR
+  			// i.e. jqXHR.done(function( data, textStatus, jqXHR ) {});
+  			// Here jqXHR is the object returned by $.ajax method
+  			// So, the .done method is chained here (Google "method chaining" for more on this concept)
     		renderPerson(json);
   		});
   	}
